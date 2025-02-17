@@ -2,7 +2,7 @@
 
 ## Setup
 
-Install the dependencies:
+Install the dependencies
 
 
 ```bash
