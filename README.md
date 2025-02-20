@@ -24,7 +24,7 @@ Build the website for production:
 npm run build
 ```
 
-Preview the production build locally:
+Preview the production build locally
 
 ```bash
 npm run preview
